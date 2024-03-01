@@ -1,6 +1,6 @@
 {
-  "name": "kiosk-board-custom",
-  "version": "0.1.0",
+  "name": "kiosk-keyboard-custom",
+  "version": "1.0.0",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -13,7 +13,6 @@
     "@emotion/react": "^11.11.4",
     "@emotion/styled": "^11.11.0",
     "framer-motion": "^11.0.6",
-    "kioskboard": "^2.3.0",
     "next": "14.1.0",
     "react": "^18",
     "react-dom": "^18",

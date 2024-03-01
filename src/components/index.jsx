@@ -13,8 +13,8 @@ export default function Home() {
 	// * Layout : th_default, en_default, lpr_default
 	// * Language : th, en, lpr
 	useEffect(() => {
-		setLayout("lpr_default");
-		setLanguage("lpr");
+		setLayout("th_default");
+		setLanguage("th");
 	}, []);
 
 	return (
